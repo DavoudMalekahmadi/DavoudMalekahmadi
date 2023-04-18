@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavoudMalekahmadi
-- 👀 I’m interested in data engineering
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning AWS, pyhthon and Spark
 - 💞️ I’m looking to collaborate on a data project.
 - 📫 Here is my email: davoud.malekahmadi@gmail.com
